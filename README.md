@@ -5,12 +5,12 @@ It uses following machine learning algorithms to predict the disease from the gi
 3. Naive Bayes
 
 Software requirements:
-Operating System:Mac,Linux and windows
-Python version 3.5+
-SQLite
+1. Operating System:Mac,Linux and windows
+2. Python version 3.5+
+3. SQLite
 
 Pyhton Libraries:
-NumPy
-Pandas
-Tkinter
-sqlite3
+1. NumPy
+2. Pandas
+3. Tkinter
+4. sqlite3
